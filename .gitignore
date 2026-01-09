@@ -1,7 +1,16 @@
+# Dependencies
 node_modules/
+
+# Cypress outputs
 cypress/videos/
 cypress/screenshots/
+
+# Environment
 .env
+
+# Documents
 *.pdf
 *.docx
+
+# Temporary Word files
 ~$*.docx
