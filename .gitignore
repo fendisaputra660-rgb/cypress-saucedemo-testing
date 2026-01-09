@@ -1,0 +1,7 @@
+node_modules/
+cypress/videos/
+cypress/Hasil_Laporan_Akhirrrr.pdf
+cypress/app.py
+cypress/Hasil_Pengujian_Cypress.docx
+cypress/Hasil_Pengujian_Cypress.pdf
+.env
